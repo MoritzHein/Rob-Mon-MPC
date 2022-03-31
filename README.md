@@ -37,11 +37,7 @@ The Open Loop Approach was not used in this case study, but can be evaluated to 
 The Closed Loop Approach follows next, which produces parts of the results from Figure 2 of the paper by varying the uncertainty functions.
 For the simplified closed Loop approach, the robust control invariant set is computed interlinked for the whole prediction horizon.
 These sets are then used for the simplified approach, which also produces parts of the results from Figure 2 of the paper by varying the uncertainty functions.
-To compare the scalability with the states, the computation of an RCIS for specific times was done.
-First with 4 rooms, i.e. 12 states and 6 disturbances
-Second with 9 rooms, i.e. 27 states and 11 disturbances
-Thirdly with 16 rooms, i.e. 48 states and 18 disturbances.
-
+Again the approach of computing RCIS is presented, for non-timevarying parameters.
 Finally the Post-Processing for Figure 2 is presented.
 
 If some questions arise, please feel free, to contact [me](moritz.heinlen@tu-dortmund.de)!
