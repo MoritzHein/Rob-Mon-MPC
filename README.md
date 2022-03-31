@@ -20,10 +20,11 @@ control example.
 
 Thank you for looking into the supplementary code!
 All the calculations presented in this paper were done in Python and can be reevaluated in the Jupyter Notebook.
-The main toolboxes used for this are 
-  -numpy
-  -CasADi
-  -matplotlib
+The main toolboxes used for this are:
+
+- numpy
+- matplotlib
+- CasADi
 
 As well as our own toolbox [do-mpc](www.do-mpc.com).
 
