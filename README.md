@@ -40,4 +40,4 @@ These sets are then used for the simplified approach, which also produces parts 
 Again the approach of computing RCIS is presented, for non-timevarying parameters.
 Finally the Post-Processing for Figure 2 is presented.
 
-If some questions arise, please feel free, to contact [me](moritz.heinlen@tu-dortmund.de)!
+If some questions arise, please feel free, to contact [me](moritz.heinlein@tu-dortmund.de)!
